@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711064474177",
+    "project_id": "si-jawa",
+    "storage_bucket": "si-jawa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711064474177:android:854d096ab04fc4a9c7ecc0",
+        "android_client_info": {
+          "package_name": "com.example.sijawa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6CcvGMIY95Em10z0oooce1RmcUBMcfbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
